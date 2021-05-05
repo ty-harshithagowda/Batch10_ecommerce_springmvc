@@ -54,6 +54,20 @@ public class AdminServiceImpl implements AdminService {
 	}
 
 
+	@Override
+	public AdminBean getAllItems1() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	@Override
+	public AdminBean getAllItems() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
 
 
 }

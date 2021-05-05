@@ -18,4 +18,8 @@ public interface AdminService {
 	
 	public List<ItemBean> getAllEmployeeDetails();
 
+	public AdminBean getAllItems1();
+
+	public AdminBean getAllItems();
+
 }
